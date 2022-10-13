@@ -1,4 +1,4 @@
-#./bin/bash
+#!/bin/bash
 
 if [ "$2" = '+' ] ; then
 	res=$(($1 + $3))
